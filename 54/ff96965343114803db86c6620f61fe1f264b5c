@@ -1,0 +1,125 @@
+g14/README.md
+  s_820646ed6d68d3::t_84069098257f95 1-175
+g14/validation/remote_make.py
+  s_820646ed6d68d3::t_84069098257f95 1-92
+intent-prediction-service/tests/test_db_helper.py
+  s_820646ed6d68d3::t_84069098257f95 1-101
+intent-prediction-service/tests/test_prompt_builder.py
+  s_820646ed6d68d3::t_84069098257f95 1-73
+简历/简历.md
+  s_820646ed6d68d3::t_84069098257f95 1-14
+intent-prediction-service/app/main.py
+  s_820646ed6d68d3::t_84069098257f95 1-213
+g14/赛制规则.md
+  s_820646ed6d68d3::t_84069098257f95 1-145
+intent-prediction-service/.paas/uvicorn.ini
+  s_820646ed6d68d3::t_84069098257f95 1-7
+intent-prediction-service/clients/__init__.py
+  s_820646ed6d68d3::t_84069098257f95 1
+intent-prediction-service/tests/fixtures/ubt_sample.json
+  s_820646ed6d68d3::t_84069098257f95 1-46
+intent-prediction-service/scheduler/batch_evaluation.py
+  s_820646ed6d68d3::t_84069098257f95 1-335
+intent-prediction-service/tests/test_service.py
+  s_820646ed6d68d3::t_84069098257f95 1-463
+intent-prediction-service/config/settings.py
+  s_820646ed6d68d3::t_16a64a8599d080 1-357
+intent-prediction-service/clients/hive_summary_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-232
+g14/validation/so_equiv.cpp
+  s_820646ed6d68d3::t_84069098257f95 1-200
+intent-prediction-service/.paas/pre_image.sh
+  s_820646ed6d68d3::t_84069098257f95 1
+intent-prediction-service/scheduler/__init__.py
+  s_820646ed6d68d3::t_84069098257f95 1
+intent-prediction-service/start_service.py
+  s_820646ed6d68d3::t_84069098257f95 1-38
+intent-prediction-service/clients/llm_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-144
+intent-prediction-service/clients/order_status_extractor.py
+  s_820646ed6d68d3::t_84069098257f95 1-141
+intent-prediction-service/.gitignore
+  s_820646ed6d68d3::t_84069098257f95 1-55
+intent-prediction-service/clients/summary_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-149
+g14/src/player_v7.cpp
+  s_820646ed6d68d3::t_84069098257f95 1-4848
+intent-prediction-service/.paas/on_image.sh
+  s_820646ed6d68d3::t_84069098257f95 1-4
+intent-prediction-service/README.md
+  s_820646ed6d68d3::t_84069098257f95 1-411
+intent-prediction-service/clients/tts_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-88
+intent-prediction-service/example/call_service.py
+  s_820646ed6d68d3::t_84069098257f95 1-60
+intent-prediction-service/requirements.txt
+  s_820646ed6d68d3::t_84069098257f95 1-15
+intent-prediction-service/.python-version
+  s_820646ed6d68d3::t_84069098257f95 1
+intent-prediction-service/tests/test_api.py
+  s_820646ed6d68d3::t_84069098257f95 1-105
+g14/src/game_api.h
+  s_820646ed6d68d3::t_84069098257f95 1-55
+intent-prediction-service/tests/test_parse_prediction.py
+  s_820646ed6d68d3::t_84069098257f95 1-60
+g14/赛事组QA.md
+  s_820646ed6d68d3::t_84069098257f95 1-259
+g14/validation/rank1_rounds.h
+  s_820646ed6d68d3::t_84069098257f95 1-1033
+g14/Makefile
+  s_820646ed6d68d3::t_84069098257f95 1-158
+intent-prediction-service/app/__init__.py
+  s_820646ed6d68d3::t_84069098257f95 1
+intent-prediction-service/clients/implus_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-74
+简历/比赛简历.md
+  s_820646ed6d68d3::t_84069098257f95 1-5
+intent-prediction-service/app/service.py
+  s_820646ed6d68d3::t_84069098257f95 1-447
+intent-prediction-service/app/db_helper.py
+  s_820646ed6d68d3::t_84069098257f95 1-205
+intent-prediction-service/config/prompts.py
+  s_820646ed6d68d3::t_84069098257f95 1-405
+intent-prediction-service/config/__init__.py
+  s_820646ed6d68d3::t_84069098257f95 1-4
+intent-prediction-service/clients/complaint_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-59
+intent-prediction-service/tests/test_tts_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-145
+intent-prediction-service/clients/ubt_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-151
+intent-prediction-service/data/label_mapping.json
+  s_820646ed6d68d3::t_84069098257f95 1-115
+intent-prediction-service/tests/test_ubt_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-131
+intent-prediction-service/tests/test_models.py
+  s_820646ed6d68d3::t_84069098257f95 1-64
+g14/validation/bench_so.cpp
+  s_820646ed6d68d3::t_84069098257f95 1-156
+intent-prediction-service/scheduler/scheduler.py
+  s_820646ed6d68d3::t_84069098257f95 1-25
+intent-prediction-service/clients/notification_client.py
+  s_820646ed6d68d3::t_84069098257f95 1-197
+intent-prediction-service/main.py
+  s_820646ed6d68d3::t_84069098257f95 1-6
+intent-prediction-service/app/models.py
+  s_820646ed6d68d3::t_84069098257f95 1-40
+g14/build.sh
+  s_820646ed6d68d3::t_84069098257f95 1-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "54ff96965343114803db86c6620f61fe1f264b5c",
+  "prompts": {},
+  "sessions": {
+    "s_820646ed6d68d3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1143b-f302-72b0-8d2f-eeb5f267bf33",
+        "model": "gpt-6-sol-2026-09-22[1M]"
+      },
+      "human_author": "yuanzhai <258370956+zhai-yuan@users.noreply.github.com>"
+    }
+  }
+}
