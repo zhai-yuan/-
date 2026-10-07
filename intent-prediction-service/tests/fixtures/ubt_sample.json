@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "vid": "V1",
+      "pvid": 5740,
+      "start_time": "2026-05-08 12:07:54.687",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"exit\",\"CostTime\":\"9639\",\"Show_Click\":\"[{\\\"show\\\":1,\\\"title\\\":\\\"回退\\\",\\\"module\\\":\\\"头部\\\",\\\"type\\\":\\\"\\\",\\\"click\\\":0},{\\\"show\\\":1,\\\"title\\\":\\\"2001\\\",\\\"module\\\":\\\"Card_Bottom\\\",\\\"type\\\":\\\"Jump_Checkin\\\",\\\"click\\\":1}]\"}"
+    },
+    {
+      "vid": "V1",
+      "pvid": 5740,
+      "start_time": "2026-05-08 12:07:50.000",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"normal\",\"CostTime\":\"500\",\"Show_Click\":\"[]\"}"
+    },
+    {
+      "vid": "V1",
+      "pvid": 5745,
+      "start_time": "2026-05-08 12:08:05.256",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"background\",\"CostTime\":\"19789\",\"Show_Click\":\"[]\"}"
+    },
+    {
+      "vid": "V1",
+      "pvid": 5751,
+      "start_time": "2026-05-08 12:10:53.792",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"exit\",\"CostTime\":\"5200\",\"Show_Click\":\"[{\\\"show\\\":1,\\\"title\\\":\\\"RefundReBookPolicy\\\",\\\"module\\\":\\\"Card_Flight\\\",\\\"type\\\":\\\"Interactive\\\",\\\"click\\\":1}]\"}"
+    },
+    {
+      "vid": "V1",
+      "pvid": 5760,
+      "start_time": "2026-05-08 13:00:00.000",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"exit\",\"CostTime\":\"3000\",\"Show_Click\":\"[]\"}"
+    },
+    {
+      "vid": "V1",
+      "pvid": 5770,
+      "start_time": "2026-05-08 14:00:00.000",
+      "order_id": "1128147843141834",
+      "data_info": "{\"TriggerType\":\"exit\",\"CostTime\":\"1000\",\"Show_Click\":\"[]\"}"
+    }
+  ]
+}
